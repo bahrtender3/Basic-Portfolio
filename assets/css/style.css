@@ -1,0 +1,38 @@
+p, h1, h4 {
+	font-family: 'Roboto Slab', serif;
+}
+
+#funText {
+	color: black;
+	font-size: 24px;
+	font-family: 'Roboto Slab', serif;
+}
+
+#box {
+	height: 100px;
+	width: 100px;
+	margin:auto;
+}
+body {
+	background-color: crimson;
+	margin: 0px 0px;
+
+}
+
+.Headerwrap {
+
+	background-color: blue;
+	height: 100px;
+
+}
+
+.Contentwrap {
+	background-color: purple;
+	margin: 0% 10%;
+	height: 750px;
+}
+
+.Footerwrap {
+	background-color: green;
+	height: 100px;
+}
