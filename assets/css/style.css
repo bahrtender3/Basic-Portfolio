@@ -1,12 +1,4 @@
-p, h1, h4 {
-	font-family: 'Roboto Slab', serif;
-}
 
-#funText {
-	color: black;
-	font-size: 24px;
-	font-family: 'Roboto Slab', serif;
-}
 
 #box {
 	height: 100px;
@@ -14,25 +6,138 @@ p, h1, h4 {
 	margin:auto;
 }
 body {
-	background-color: crimson;
+	background-image: url("../images/dark-triangles/dark-triangles.png");
 	margin: 0px 0px;
+	background-color: black;
 
 }
 
 .Headerwrap {
 
-	background-color: blue;
+	background-color: white;
 	height: 100px;
+
 
 }
 
 .Contentwrap {
-	background-color: purple;
+	background-color: none; 
 	margin: 0% 10%;
-	height: 750px;
+	height: 960px;
 }
 
 .Footerwrap {
-	background-color: green;
+	background-color: #666666;
 	height: 100px;
 }
+
+.Name {
+	background-color: #4aaaa5;
+	height: auto;
+	width: 200px;
+	margin: 0 0 0 10%;
+	padding: 31.5px;
+	text-align: center;
+	Float: left;
+	color: white;
+
+
+}
+
+.Navbutton_Wrap {
+	width: 250px;
+	float: right;
+	background-color: white;
+	padding: 30px 30px 10px 30px;
+	margin-right: 10%
+
+}
+
+.Navbuttons {
+	background-color: white;
+	float: left;
+	width: 33.333%;
+	text-align: center;
+	color: gray;
+}
+
+.Left_Content {
+	float: left;
+	width: 650px;
+	background-color: white;
+	margin-top: 5%;
+
+	
+}
+
+.Right_Content {
+	float: left;
+	width: 270px;
+	background-color: white;
+	margin-top: 5%;
+	margin-left: 5%;
+
+}
+
+.Left_Content_Header {
+	padding: 5%;
+	color: #4aaaa5;
+
+}
+
+#pic_of_me {
+	height: 200px;
+	width: 300px; 
+	float: left;
+	padding-right: 5%
+}
+
+#About_Me_Section {
+	padding: 5%;
+}
+
+.Connect_With_Me_Header {
+	padding: 5%;
+	color: #4aaaa5;
+}
+
+.Image_Link_Container {
+	padding: 5%;
+}
+
+.Social_Links {
+	width: 30%;
+}
+
+.Footer_Content{
+	color: lightgray;
+	margin: 0 40%;
+	padding-top: 1%;
+
+}
+
+.Copywright_Statement {
+	color: lightgray;
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
